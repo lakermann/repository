@@ -2,7 +2,7 @@
 
 A collection of slides, videos and related links for talks and workshops that I've given.
 
-* **Virtual Reality-App Entwicklung mit JavaScript** by Lukas Akermann, Bärner JS Talks - 2018-01-23
+* **Virtual Reality-App Entwicklung mit JavaScript** by Lukas Akermann, Bärner JS Talks - 2018-01-23 | Employee Day - 2018-01-31
 
   [[Slides]](slides/2018-01-23_Virtual_Reality-App_Entwicklung_mit_JavaScript.pdf)<sup>1</sup> · [[Code]](https://github.com/lakermann/vr-with-javascript) · [[Video Talk]](https://youtu.be/Itsy_2e15UE) · [[Video Bowling]](https://youtu.be/LJ9yajf34Vs)
 
