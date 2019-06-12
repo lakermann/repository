@@ -26,5 +26,5 @@ A collection of slides, videos and related links for talks, workshops and hackat
 **Augmented Reality with Unity Workshop** by Lukas Akermann, Matthias Baumeler, Fredrik Gundelsweiler - Client Technology Days - 2016-11-18\
 [[Instructions]](https://github.com/lakermann/ar-with-unity-workshop) · [[Video Cubes]](https://youtu.be/3RIOEBiPE-k)
 
-<sup>1</sup> additional slides with screenshots<br />
+<sup>1</sup> additional slides with screenshots\
 <sup>2</sup> subset of slides
