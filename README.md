@@ -15,7 +15,7 @@ A collection of slides, videos and related links for talks, workshops and hackat
 [[Slides]](slides/2018-01-23_Virtual_Reality-App_Entwicklung_mit_JavaScript.pdf)<sup>1</sup> · [[Code]](https://github.com/lakermann/vr-with-javascript) · [[Video Talk]](https://youtu.be/Itsy_2e15UE) · [[Video Bowling]](https://youtu.be/LJ9yajf34Vs)
 
 **Machine Learning with JavaScript - Connect Four** by Lukas Akermann, Stefan Jäger - 2017-11-14\
-[[Video]](https://youtu.be/48ByUXGpKj0)
+[[Video Connect Four]](https://youtu.be/48ByUXGpKj0)
 
 **Virtual Reality with JavaScript** by Lukas Akermann, Matthias Baumeler - Client Technology Days - 2017-09-18\
 [[Slides]](slides/2017-18-09_Virtual_Reality_with_JavaScript.pdf)<sup>1,2</sup> · [[Code]](https://github.com/lakermann/vr-with-javascript) · [[Video Cubes]](https://youtu.be/4YESNrei7Q0) · [[Video Paraglider]](https://youtu.be/H3w2yMeqeMI)
