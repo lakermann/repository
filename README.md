@@ -3,10 +3,10 @@
 A collection of slides, videos and related links for talks, workshops and hackathons that I've contributed. There are many things that I enjoy doing ;-)
 
 **Connect Four Hackathon** by Lukas Akermann - 2019-05-03\
-[[Results & Code]](https://github.com/lakermann/vr-with-javascript)
+[[Results & Code]](https://github.com/lakermann/connect-four-challenge)
 
 **Connect Four Hackathon** by Lukas Akermann - 2018-11-13\
-[[Results & Code]](https://github.com/lakermann/vr-with-javascript)
+[[Results & Code]](https://github.com/lakermann/connect-four-challenge)
 
 **Virtual Reality-App Entwicklung mit JavaScript** by Lukas Akermann, Brownbag at Bern University of Applied Sciences - 2018-04-20\
 [[Slides]](slides/2018-04-20_Virtual_Reality-App_Entwicklung_mit_JavaScript.pdf)<sup>1</sup> · [[Code]](https://github.com/lakermann/vr-with-javascript) · [[Video Bowling]](https://youtu.be/LJ9yajf34Vs)
