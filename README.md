@@ -24,7 +24,7 @@ A collection of slides, videos and related links for talks, workshops and hackat
 [[Slides]](slides/2017-09-12_Virtual_Reality_with_JavaScript.pdf)<sup>1</sup>
 
 **Augmented Reality with Unity Workshop** by Lukas Akermann, Matthias Baumeler, Fredrik Gundelsweiler - Client Technology Days - 2016-11-18\
-[[Instructions]](https://github.com/lakermann/ar-with-unity-workshop) · [[Video Cubes]](https://youtu.be/3RIOEBiPE-k)
+[[Course Material]](https://github.com/lakermann/ar-with-unity-workshop) · [[Video Cubes]](https://youtu.be/3RIOEBiPE-k)
 
 <sup>1</sup> additional slides with screenshots\
 <sup>2</sup> subset of slides
