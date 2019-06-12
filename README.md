@@ -1,4 +1,4 @@
-# Respository
+# Repository
 
 A collection of slides, videos and related links for talks, workshops and hackathons that I've contributed. There are many things that I enjoy doing ;-)
 
